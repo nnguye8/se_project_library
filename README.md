@@ -6,6 +6,7 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 ## Project features
 
 - Semantic HTML5
+- CSS
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
